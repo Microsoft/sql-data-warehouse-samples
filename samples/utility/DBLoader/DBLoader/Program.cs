@@ -3,7 +3,7 @@
 *       Solution:   DBLoader
 *       Module:     Program
 *       Copyright:  Copyright © 2018 Mitch van Huuksloot, Microsoft Corporation
-*       Author:     Mitch van Huuksloot, Microsoft Coporation
+*       Author:     Mitch van Huuksloot, Microsoft Corporation
 *       Support:    This utility comes with no warranty of any kind, either express or implied. Neither Microsoft nor the author make any warranty of fitness for any purpose. 
 *       Purpose:    Provides main entry point into the application, argument processing, input path or file processing and parallel Task handling.
 * 
