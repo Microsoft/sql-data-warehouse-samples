@@ -1,4 +1,3 @@
-# SQL Data Warehouse AutoScale using Logic apps
 
 This sample includes 3 templates to showcase different scenarios for using Logic apps to autoscale compute resources for a SQL Data Warehouse
 

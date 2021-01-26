@@ -1,6 +1,7 @@
 # Azure Data Factory samples
 
-This is a collection of samples that demonstrate how to use [Azure SQL Data Warehouse](https://aka.ms/sqldw) with [Azure Data Factory](https://azure.microsoft.com/services/data-factory).
+This is a collection of samples that demonstrate how to use [Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse) AutoScale using Logic apps
+](https://aka.ms/sqldw) with [Azure Data Factory](https://azure.microsoft.com/services/data-factory).
 
 Samples:
 

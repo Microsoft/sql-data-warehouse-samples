@@ -1,5 +1,5 @@
-# Microsoft Toolkit for SQL Data Warehouse
-The Microsoft Toolkit for SQL Data Warehouse offers a set of views and procedures that help you optimize your [Azure SQL Data Warehouse](http://aka.ms/sqldw). 
+# Microsoft Toolkit for Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse)
+The Microsoft Toolkit for SQL Data Warehouse offers a set of views and procedures that help you optimize your [Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse)](http://aka.ms/sqldw). 
 
 ## Installation
 The toolkit installs the following items:

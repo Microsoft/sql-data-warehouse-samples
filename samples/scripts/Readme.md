@@ -1,6 +1,6 @@
 # Database scripts
 
-Contains sample scripts for managing, monitoring, and maintaining Azure SQL Data Warehouse databases.
+Contains sample scripts for managing, monitoring, and maintaining Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse) databases.
 
 ## Data-load
 The [data-load](data-load/) folder contains TSQL scripts that can be adapted to simplify loading DW tables from Azure Blob Storage or Azure Data Lake Store using tables in DW as the model.

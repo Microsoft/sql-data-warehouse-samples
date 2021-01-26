@@ -1,4 +1,4 @@
-# Suspend or Pause Azure SQL Data Warehouse
+# Suspend or Pause Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse)
 
 See the blog post [here](https://blogs.msdn.microsoft.com/allanmiller/2017/09/20/pausing-azure-sql-data-warehouse-using-an-automation-runbook/ "Pausing Azure SQL Data Warehouse using an Automation Runbook")
 

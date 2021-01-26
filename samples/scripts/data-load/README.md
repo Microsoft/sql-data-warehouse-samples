@@ -1,6 +1,6 @@
-# Auto Generate Azure SQL DW Load – TSQL Scripts
+# Auto Generate Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse)Load – TSQL Scripts
 
-These scripts were developed to help with a large Azure SQL DW POC with one of the DMJ customers. Some of the assumptions made in the scripts are very specific to the scenario encountered at the customer. Feel free to adapt these scripts to your data loading scenario.
+These scripts were developed to help with a large Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse) POC with one of the DMJ customers. Some of the assumptions made in the scripts are very specific to the scenario encountered at the customer. Feel free to adapt these scripts to your data loading scenario.
 
 Each of the scripts creates the appropriate objects to allow an optimal performance DW load from text files in blob storage into Azure SQL DW using Polybase. You can easily change the external data source to use Azure Data Lake as a source as well. The optimal nature of the load will depend on the number of files provided. Our customer had many gzip’d files that distributed well among several DW nodes (few larger gzip’d files would not have done as well).
 
