@@ -3,7 +3,7 @@
 *       Solution:   DBLoader
 *       Module:     Globals
 *       Copyright:  Copyright © 2018 Mitch van Huuksloot, Microsoft Corporation
-*       Author:     Mitch van Huuksloot, Microsoft Coporation
+*       Author:     Mitch van Huuksloot, Microsoft Corporation
 *       Support:    This utility comes with no warranty of any kind, either express or implied. Neither Microsoft nor the author make any warranty of fitness for any purpose. 
 *       Purpose:    Provides a class to gather all of the variables and configuration setting shared between all tasks. This module encapsulates reading of the values from the 
 *                   configuration file and column metadata from SQL Server.
