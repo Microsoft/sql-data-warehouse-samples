@@ -1,4 +1,4 @@
-# SQL Data Warehouse Auto-Pause and Auto-Resume using Logic apps
+# Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse) Auto-Pause and Auto-Resume using Logic apps
 
 This sample includes 3 templates to showcase different scenarios for using Logic apps to pause and resume compute resources for a SQL Data Warehouse
 
@@ -11,7 +11,7 @@ In this scenario, you deploy a timer-based Logic app configured with a [service 
 **1. Deploy timeschedule-based autopause and autoresume template**
 
 > [!NOTE]
-> You will need an existing SQL Data Warehouse to deploy the template below. 
+> You will need an existing Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse) to deploy the template below. 
 
 * Use the server-name and database-name properties of your data warehouse, and a pause-resume schedule to complete the deployment. 
 * You can additionally specify the timezone for the pause-resume schedule, and if the schedule should only run on weekdays.

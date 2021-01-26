@@ -1,1 +1,1 @@
-# Refresh Replicated Tables in a Azure SQL Data Warehouse
+# Refresh Replicated Tables in a Azure Synapse Analytics SQL Pool (formerly SQL Data Warehouse)
